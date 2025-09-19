@@ -84,6 +84,6 @@ ZombieOceanBiome: {
 }
 
 SpookyBiomeUgGlowshroom: {
-	// DisplayName: Spooky Biome Ug Glowshroom
-	// TownNPCDialogueName: the Spooky Biome Ug Glowshroom
+	// DisplayName: Glowshroom Biome
+	// TownNPCDialogueName: Glowshroom Biome
 }
