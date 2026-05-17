@@ -84,6 +84,21 @@ ZombieOceanBiome: {
 }
 
 SpookyBiomeUgGlowshroom: {
-	// DisplayName: Glowshroom Biome
-	// TownNPCDialogueName: Glowshroom Biome
+	// DisplayName: Glowshroom Caves
+	// TownNPCDialogueName: Glowshroom Caves
+}
+
+SporeEventBiome: {
+	// DisplayName: Sporestorm
+	// TownNPCDialogueName: Sporestorm
+}
+
+SpiderWarBiome: {
+	// DisplayName: Spider War
+	// TownNPCDialogueName: Spider War
+}
+
+RaveyardVisualBiome: {
+	// TownNPCDialogueName: Raveyard Visual Biome
+	// DisplayName: Raveyard Visual Biome
 }
