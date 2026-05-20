@@ -11,6 +11,7 @@
 	''' */
 // BroccoliArmor: Minions will sometimes plant damaging broccoli on enemies
 // GoldrushArmor: All of your attacks inflict midas, causing enemies to drop more money
+// TarCactusArmor: Retaliate by flinging cactus thorns when you take damage
 /* YuletideArmor:
 	'''
 	Double tap Down to combust and scatter damaging embers
@@ -45,6 +46,12 @@
 	Double tap Down to summon clumps of pollen to attack your enemies
 	This ability has a 30 second cooldown before it can be used again
 	''' */
+/* SporeShroomArmor:
+	'''
+	Double tap Down to grow a spore shroom that damages enemies around it
+	Spore shrooms can be bounced off of to restore flight time a bit
+	You can only have up to 3 spore shrooms active at once
+	''' */
 /* HazmatArmor:
 	'''
 	Gain a toxic goo friend for each bloom buff you have
@@ -52,3 +59,4 @@
 	''' */
 // GoreArmorOrro: Summons a baby orro to fight with you!
 // GoreArmorBoro: Summons a baby boro to fight with you!
+// MortarArmor: Sometimes spawn homing missiles when you damage enemies

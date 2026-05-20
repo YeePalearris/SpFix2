@@ -34,6 +34,15 @@ DaffodilEye: {
 	}
 }
 
+OldHunterBoss: {
+	// DisplayName: Old Hunter
+
+	BossChecklistIntegration: {
+		// SpawnInfo: Revive the old hunter's corpse by bringing the [i:Spooky/OldHunterSoul] to his body.
+		// DespawnMessage: The old hunter has defeated all players
+	}
+}
+
 OrroHead: {
 	// DisplayName: Orro
 
@@ -57,7 +66,7 @@ SpookFishron: {
 	// DisplayName: Spook Fishron
 
 	BossChecklistIntegration: {
-		// SpawnInfo: Fish in the ocean at night during a pumpkin moon while using [i:Spooky/SinisterSnailItem] as bait.
+		// SpawnInfo: Fish in the ocean at night during a pumpkin moon while using a [i:Spooky/SinisterSnailItem] as bait. Sinister snails spawn in the underground spooky forest in hardmode.
 		// DespawnMessage: Every player has been turned into bad sushi
 	}
 }
@@ -174,6 +183,7 @@ SpookFishron: {
 //cemetery
 // BloatGhostBig.DisplayName: Bloated Ghost
 // BloatGhostSmall.DisplayName: Bloat Ghost
+// Crow.DisplayName: Crow
 // FeralRat1.DisplayName: Feral Rat
 // FeralRat2.DisplayName: Feral Rat
 // HungryGhost.DisplayName: Hungry Ghost
@@ -193,6 +203,7 @@ SpookFishron: {
 // TinyRat2.DisplayName: Tiny Rat
 // ZomboidCasket.DisplayName: Zomboid Casket
 // ZomboidGremlin.DisplayName: Zombino
+// MistGhostSpawn.DisplayName: ""
 //egg event
 // BileStomach.DisplayName: Tummy-acher
 // Biojetter.DisplayName: Biojetter
@@ -201,6 +212,8 @@ SpookFishron: {
 // CruxBat.DisplayName: Crux Bat
 // EarWorm.DisplayName: Ear Worm
 // EarWormBase.DisplayName: ""
+// EarWormFallingBody.DisplayName: Ear Worm
+// EarWormFalling.DisplayName: Ear Worm
 // ExplodingAppendix.DisplayName: Exploding Appendix
 // FleshBolster.DisplayName: Flesh Bolster
 // GooSlug.DisplayName: Goo Slug
@@ -221,7 +234,13 @@ SpookFishron: {
 // LittleBoneSleeping.DisplayName: Sleeping Plant
 // LittleEye.DisplayName: Little Eye
 // LittleEyeSleeping.DisplayName: Sleeping Eye
+// MushGnome1.DisplayName: Mush Gnome
+// MushGnome2.DisplayName: Mush Gnome
+// MushGnome3.DisplayName: Mush Gnome
+// MushGnome4.DisplayName: Mush Gnome
 // Musicman.DisplayName: Musicman
+// OldHunter.DisplayName: Old Hunter
+// OldHunterDead.DisplayName: Old Corpse
 // PartySkeleton1.DisplayName: Party Skeleton
 // PartySkeleton2.DisplayName: Party Skeleton
 // PartySkeleton3.DisplayName: Party Skeleton
@@ -234,37 +253,6 @@ SpookFishron: {
 // SkeletonBouncer.DisplayName: Skeleton Bouncer
 // SuspiciousSkeleton.DisplayName: Suspicious Skeleton
 // LabComputerDummy.DisplayName: ""
-// OldHunterSleeping.DisplayName: Old Hunter
-
-OldHunter: {
-	// DisplayName: Old Hunter
-	// Names: Gerald, Hunter, Marrow, Mike, Bob
-
-	TownNPCMood: {
-		// Content: I am content.
-		// NoHome: You know, I was wonderin' if you had a cozy place to live.
-		// FarFromHome: I am too far from home.
-		// LoveSpace: The amount of space here is real nice!
-		// DislikeCrowded: Ain't liking how many people are around me right now.
-		// HateCrowded: It's too damn crowded here. Way too much yip-yapping!
-		// LoveBiome: Ahh the good ol' {BiomeName}. Still love this place despite them ugly ass spiders wandering around!
-		// LikeBiome: The {BiomeName} is my type of biome. Nothin' says home quite like fending off venomous bugs and bats!
-		// DislikeBiome: Not really likin' {BiomeName}, too peaceful and calm for me.
-		// HateBiome: What the hell is this so-called Hallowed? I ain't gonna live in some fairytale land!
-		// LoveNPC: "{NPCName} is awesome! Glad there's some hard-core dudes out there!"
-		// LikeNPC: I like {NPCName}. Honestly I'm just glad I got someone old to talk with haha!
-		// DislikeNPC: "{NPCName}? Seems way too hoity-toity for me."
-		// HateNPC: "{NPCName} can screw off. Don't think I ever seen such a terrible attitude before!"
-		// Princess_LovesNPC: ""
-		// LikeNPC_Princess: ""
-	}
-}
-
-GiantWeb: {
-	// DisplayName: Giant Web
-	// DisplayNameAlt: Right click to insert old hunter piece
-}
-
 //spooky biome
 // Bungus.DisplayName: Bungus
 // CandleMonster.DisplayName: Candle Monster
@@ -281,8 +269,8 @@ GiantWeb: {
 // MonsterEye2.DisplayName: Monster Eye
 // MonsterEye4.DisplayName: Monster Eye
 // MonsterEye3.DisplayName: Monster Eye
-// PuttyPumpkin.DisplayName: Putty Pumpkin
-// PuttyPumpkinling.DisplayName: Putty Pumpkinling
+// PuttyPumpkin.DisplayName: Pumpkin Putty
+// PuttyPumpkinling.DisplayName: Pumpkin Puttling
 // PuttySlime1.DisplayName: Putty Slime
 // PuttySlime2.DisplayName: Putty Slime
 // PuttySlime3.DisplayName: Putty Slime
@@ -295,8 +283,21 @@ GiantWeb: {
 // TinyGhostBoof.DisplayName: Tiny Ghost
 // TinyGhostRare.DisplayName: Spooky Ghost
 // TinyMushroom.DisplayName: Tiny Mushroom
+// TomatoPutty1.DisplayName: Ketchup Putty
+// TomatoPutty2.DisplayName: Ketchup Putty
+// TomatoPutty3.DisplayName: Ketchup Putty
+// TomatoPutty4.DisplayName: Ketchup Putty
+// TomatoPuttyFlying.DisplayName: Salsa Putty
+// TomatoPuttyFlyingSmall.DisplayName: Salsa Puttling
+// TomatoRoman.DisplayName: Roman Tomato
+// TomatoWormTail.DisplayName: Tomato Soupent
+// TomatoWormHead.DisplayName: Tomato Soupent
+// TomatoWormBody2.DisplayName: Tomato Soupent
+// TomatoWormBody1.DisplayName: Tomato Soupent
 // Witch.DisplayName: Evil Witch
 // ZomboidArmored.DisplayName: Armored Zomboid
+// ZomboidBrute.DisplayName: Zomboid Brute
+// ZomboidBruteTomato.DisplayName: Zomboid Brute
 // ZomboidClarinet.DisplayName: Zomboid
 // ZomboidFungus.DisplayName: Zomboid
 // ZomboidPumpkin.DisplayName: Rooted Zomboid
@@ -325,6 +326,7 @@ GiantWeb: {
 // MoclingSwarm.DisplayName: ""
 // ValleyFish.DisplayName: Peeper Fish
 // ValleyNautilus.DisplayName: Claret Cephalopod
+// ValleyNautilusBiomass.DisplayName: ""
 // ValleySquid.DisplayName: Clot Squid
 // ValleySquidClone.DisplayName: Clot Squid
 // ValleyEelBody.DisplayName: Aortic Eel
@@ -336,10 +338,16 @@ GiantWeb: {
 //spider cave
 // Ant1.DisplayName: Ant
 // Ant2.DisplayName: Ant
+// AntSpider1.DisplayName: Ant Spider
+// AntSpider2.DisplayName: Ant Spider
 // BallSpider.DisplayName: Sphider
 // BallSpiderWeb.DisplayName: Sphider Web
 // Cockroach.DisplayName: Cockroach
+// CrabSpider1.DisplayName: Crab Spider
+// CrabSpider2.DisplayName: Crab Spider
 // DaddyLongLegs.DisplayName: Daddy Long Legs
+// FishingSpider.DisplayName: Fishing Spider
+// Harvestmen.DisplayName: Harvestmen
 // Inchworm1.DisplayName: Inchworm
 // Inchworm2.DisplayName: Inchworm
 // Inchworm3.DisplayName: Inchworm
@@ -357,6 +365,14 @@ GiantWeb: {
 // OrbWeaver2.DisplayName: Orb Weaver
 // OrbWeaver3.DisplayName: Orb Weaver
 // OrbWeaverGiant.DisplayName: Giant Orb Weaver
+// PeacockSpider1.DisplayName: Peacock Spider
+// PeacockSpider2.DisplayName: Peacock Spider
+// PeacockSpider3.DisplayName: Peacock Spider
+// PelicanSpider1.DisplayName: Pelican Spider
+// PelicanSpider2.DisplayName: Pelican Spider
+// SmileSpider.DisplayName: Happy-Face Spider
+// SpiderAnt1.DisplayName: Spider Ant
+// SpiderAnt2.DisplayName: Spider Ant
 // TarantulaHawk1.DisplayName: Tarantula Hawk
 // TarantulaHawk2.DisplayName: Tarantula Hawk
 // TarantulaHawk3.DisplayName: Tarantula Hawk
@@ -365,13 +381,48 @@ GiantWeb: {
 // TinySpider3.DisplayName: Tiny Spider
 // TinySpider4.DisplayName: Tiny Spider
 // TinySpider5.DisplayName: Tiny Spider
-// TinySpiderEgg.DisplayName: Spider Egg
 // TrapdoorSpider1.DisplayName: Trapdoor Spider
 // TrapdoorSpider2.DisplayName: Trapdoor Spider
 // TrapdoorSpiderIdle1.DisplayName: Trapdoor Spider
 // TrapdoorSpiderIdle2.DisplayName: Trapdoor Spider
 // WhipSpider.DisplayName: Whip Spider
-// WhipSpiderTongue.DisplayName: Whip Spider
+// WhipSpiderStinger.DisplayName: Whip Spider
+// WolfSpider.DisplayName: Wolf Spider
+// WolfSpiderBaby.DisplayName: Baby Wolf Spider
+//spider war
+// ArchdukeSpider.DisplayName: Archduke Trigonotarbida
+// CamelColonel.DisplayName: Camel Colonel
+// CamelColonelTail.DisplayName: ""
+// CamelColonelTailSniper.DisplayName: Camel Colonel
+// CorklidQueen.DisplayName: Corklid Queen
+// EmperorMortar.DisplayName: Emperor Mortar
+// EmperorMortarSegment.DisplayName: Emperor Mortar
+// EmpressJoro.DisplayName: Empress Joro
+// JoroFly.DisplayName: Joro Fly
+// JoroBaby.DisplayName: Explosive Joro
+// OgreKing.DisplayName: Ogre King
+// TrumpetSpider.DisplayName: Trumpet Spider
+// SpotlightFirefly.DisplayName: ""
+// SpotlightSpiderFloor.DisplayName: ""
+//mushroom spore event
+// BeetleMite1.DisplayName: Beetle Mite
+// BeetleMite2.DisplayName: Beetle Mite
+// BerryMite1.DisplayName: Berry Mite
+// BerryMite2.DisplayName: Berry Mite
+// BerryMite3.DisplayName: Berry Mite
+// DeerMite.DisplayName: Deer Mite
+// DustMite1.DisplayName: Dust Mite
+// DustMite2.DisplayName: Dust Mite
+// EyelashMiteBlueBody1.DisplayName: Eyelash Mite
+// EyelashMiteBlueBody2.DisplayName: Eyelash Mite
+// EyelashMiteBlueHead.DisplayName: Eyelash Mite
+// EyelashMiteBlueTail.DisplayName: Eyelash Mite
+// EyelashMitePurpleBody1.DisplayName: Eyelash Mite
+// EyelashMitePurpleBody2.DisplayName: Eyelash Mite
+// EyelashMitePurpleHead.DisplayName: Eyelash Mite
+// EyelashMitePurpleTail.DisplayName: Eyelash Mite
+// PeacockMite.DisplayName: Peacock Mite
+// RustMite.DisplayName: Rust Mite
 //nose cult
 // MocoIdol1.DisplayName: ""
 // MocoIdol2.DisplayName: ""
@@ -395,7 +446,7 @@ GiantWeb: {
 // NoseCultistLeader.DisplayName: Noseferatu
 // SnotMonster.DisplayName: Snot Monster
 // SnotSlime.DisplayName: Snot Slime
-//quest minibosses
+//quest enemies
 // BanditBook.DisplayName: Tome of Spirits
 // BanditBruiser.DisplayName: Rarg
 // BanditWizard.DisplayName: Greeny
@@ -407,6 +458,20 @@ GiantWeb: {
 // FrankenGoblinHandBack.DisplayName: Frank's Hand
 // FrankenGoblinEye.DisplayName: Monster Eye
 // StitchSpider.DisplayName: Stitches
+// PotatoGator.DisplayName: Potato Gator
+// EvilMite.DisplayName: Full Tick
+// EvilMiteDeath.DisplayName: Full Tick
+// Harold.DisplayName: Haunting Harold
+// HaroldHandRight.DisplayName: ""
+// HaroldHandLeft.DisplayName: ""
+// TripletsBody.DisplayName: The Triplets
+// TripletsEyeGreen.DisplayName: Cornealius
+// TripletsEyeRed.DisplayName: Macule
+// TripletsEyePurple.DisplayName: Vitreous Bobby
+// PuttyAmalgam.DisplayName: Putty Amalgam
+// ChristmasTreeMimic.DisplayName: Christmas Tree Mimic
+// TarPig.DisplayName: Opalised Hog
+// Chudshroom.DisplayName: Chudshroom
 //tar pits
 // Hydroraptor.DisplayName: Hydroraptor
 // Tarblimp.DisplayName: Tarblimp
@@ -471,17 +536,8 @@ GiantWeb: {
 // TeddyBearSnow.DisplayName: Snow Bear
 // ToyRobot.DisplayName: Toy Robot
 // ToyRobotTank.DisplayName: Toy Tankbot
+
 //tameable
-// Crow.DisplayName: Crow
-// LittleDunkEggNPC.DisplayName: Strange Egg
-
-LittleDunk: {
-	// DisplayName: Lil' Dunk
-	// State1: Lil' Dunk is Roaming
-	// State2: Lil' Dunk is Following
-	// State3: Lil' Dunk is Staying
-}
-
 Turkey: {
 	// DisplayName: Turkey
 	// State1: Turkey is Roaming

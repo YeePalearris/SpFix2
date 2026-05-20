@@ -29,8 +29,7 @@
 // FireBeam.DisplayName: Fire Beam
 // GlowBulbProj.DisplayName: Glow Bulb
 // GlowBulbThorn.DisplayName: Bulb Thorn
-// GraveCrossbowArrow.DisplayName: Crossbow Arrow
-// GraveCrossbowProj.DisplayName: Grave Crossbow
+// GraveCrossbowProj.DisplayName: Old Hunter's Crossbow
 // NineTailsProj.DisplayName: Nine Tails
 // SkullTotem.DisplayName: Skull Totem
 // SoulBolt.DisplayName: Soul Bolt
@@ -42,7 +41,6 @@
 // PumpkinHead.DisplayName: Pumpkin Head
 // PumpkinHeadBolt.DisplayName: Spooky Bolt
 // ScrollPumpkin.DisplayName: Magic Pumpkin
-// SlingshotBall.DisplayName: Ghastly Ball
 // SpiritHand.DisplayName: Spirit Hand
 // SpiritScrollHoldout.DisplayName: Spooky Scroll
 // SpiritSlingshotProj.DisplayName: Ghostly Slingshot
@@ -127,7 +125,6 @@
 // ColumboFinger.DisplayName: Columbo
 // ShroomWhipProj.DisplayName: Spore Smacker
 // ShroomWhipSpore.DisplayName: Shroom Spore
-// GhastlyOrbProj.DisplayName: Ghastly Orb
 // ChlorophyllFlower.DisplayName: Chlorophyll Flower
 // FleshPillarTelegraph.DisplayName: Telegraph
 // FleshPillar.DisplayName: Flesh Pillar
@@ -282,8 +279,6 @@
 // TortumorYoyoProj.DisplayName: Tumor Throw
 // TortumorYoyoChunk.DisplayName: Tumor Chunk
 // LivingFleshEye.DisplayName: Living Flesh Eye
-// TomatoGlob.DisplayName: Tomato Glob
-// TomatoSauce.DisplayName: Tomato Sauce
 // CatacombCrusherDeath1.DisplayName: Ancient Crusher
 // CatacombCrusherDeath2.DisplayName: Ancient Crusher
 // CatacombCrusherDeath3.DisplayName: Ancient Crusher
@@ -600,6 +595,150 @@
 // ZombieEelHead.DisplayName: Zombie Eel
 // ZombieEelTail.DisplayName: Zombie Eel
 // DaffodilRodPetal.DisplayName: Sunflower Petal
-// MudSplatter.DisplayName: Mud Splatter
 // CrustyGunfishProj.DisplayName: Crusty Gunfish
 // Phantom.DisplayName: Phantom
+// RustMiteSpike.DisplayName: Mite Spine
+// MiteProjectile.DisplayName: Mite
+// MiteTomeLightning.DisplayName: Smite Bolt
+// SporeCloud.DisplayName: Spore Cloud
+// SporeBallProj.DisplayName: Sporebus
+// SporeTomeMushroom.DisplayName: Mushroom
+// SporeWandBall.DisplayName: Spiked Spore
+// MiteClawSlash.DisplayName: Mite Claw Slash
+// MiteDen.DisplayName: Mite Den
+// MiteSwordProj.DisplayName: Ravenous Scimiter
+// MiteVacuumProj.DisplayName: Devil Duster
+// MiteVacuumSpore.DisplayName: Spore Cloud
+// MushroomFriendPet.DisplayName: Mushroom Friend
+// CamelSniperBolt.DisplayName: Sniper Bolt
+// CamelVenomBolt.DisplayName: Venom Bolt
+// MortarRocket.DisplayName: Mortar Rocket
+// MortarFire.DisplayName: Mortar Flames
+// MortarMine.DisplayName: Web Mine
+// MortarMineExplosion.DisplayName: Explosion
+// CorklidQueenDebris.DisplayName: Debris
+// CorklidRocket.DisplayName: Corklid Rocket
+// CorklidNuke.DisplayName: Corklid Nuke
+// OgreKingWeb.DisplayName: Trap Web
+// OgreKingWebEffect.DisplayName: Web Particle
+// OgreKingWebTrail.DisplayName: Web String
+// EmpressJoroWebEgg.DisplayName: Web Egg
+// JoroBabyDrop.DisplayName: Joro Baby
+// CamelSniperReticle.DisplayName: Reticle
+// CorklidMissileReticle.DisplayName: Reticle
+// MortarWebTrail.DisplayName: Mortar Web
+// SniperBoltPurple.DisplayName: Venom Bolt
+// SniperBoltGreen.DisplayName: Poison Bolt
+// SpiderWarFlailProj.DisplayName: Tsar Throwah
+// SpiderWarFlailRocket.DisplayName: Explosive Rocket
+// SpiderWarFlailDebris.DisplayName: Debris
+// SpiderWarRemoteFly.DisplayName: Joro Fly
+// SpiderWarRemoteEgg.DisplayName: Joro Egg
+// SpiderWarRemoteNuke.DisplayName: Explosive Joro
+// MortarArmorRocket.DisplayName: Mortar Rocket
+// SpiderWarDreamcatcherWeb.DisplayName: Spider Web
+// BluegillSparkle.DisplayName: Bluegill Sparkle
+// BluegillSparkleSmall.DisplayName: Bluegill Sparkle Small
+// BloodToothBall.DisplayName: Blood Tooth Ball
+// InkSpore.DisplayName: Ink Spore
+// EyeTadpole.DisplayName: Eye Tadpole
+// SentientRulerProj.DisplayName: Foot
+// SentientWeatherPainProj.DisplayName: Weather Rooster
+// SentientWeatherPainTornado.DisplayName: Tornado
+// SentientChainKnifeProj.DisplayName: Puncturing Hornsnake
+// SentientHarpoonProj.DisplayName: Frogpoon
+// SentientPaintballGunProj.DisplayName: Dairy Homunculus
+// MilkSplatter.DisplayName: Milk Splatter
+// SlingshotBouncyBall.DisplayName: Bouncing Ball
+// SlingshotIceBall.DisplayName: Icy Snowflake
+// SlingshotIceExplosion.DisplayName: Ice Explosion
+// SlingshotGrenade.DisplayName: Grenade
+// SlingshotGrenadeExplosion.DisplayName: Explosion
+// SlingshotGrenadeCluster.DisplayName: Grenade Cluster
+// SlingshotRotBall.DisplayName: Rot Ball
+// SlingshotRotFly.DisplayName: Rot Fly
+// SlingshotSpikeBall.DisplayName: Spike Ball
+// SlingshotBomb.DisplayName: Bomb
+// SludgePet.DisplayName: The Sludge
+// SlingshotBaseProj.DisplayName: Slingshot Base Proj
+// BouncyBallProj.DisplayName: Bouncy Ball
+// SpiritSlingshotGhost.DisplayName: Soul
+// SpiritSlingshotGhostBolt.DisplayName: Soul Bolt
+// OpalSlingshotProj.DisplayName: Opalised Slinger
+// OpalSlingshotBone.DisplayName: Opalised Bone
+// TarFlingerProj.DisplayName: Tar Flinger
+// TarFlingerBlob.DisplayName: Tar Blob
+// CactusClubProj.DisplayName: Cactus Club
+// CactusNeedle.DisplayName: Cactus Needle
+// CactusGloveProj.DisplayName: Glove of a Thousand Pricks
+// CactusSentryProj.DisplayName: Cactoid Sentry
+// StickyHandProj.DisplayName: Sticky Hand Slinger
+// SentientOpticStaffMouth.DisplayName: Retina Chomper
+// SentientOpticStaffTear1.DisplayName: Tear
+// SentientOpticStaffTear2.DisplayName: Cursed Tear
+// MossyBoulderProj.DisplayName: Mossy Boulder
+// SeedAmmoProj.DisplayName: Pokey Seed Ball
+// SeedAmmoSplit.DisplayName: Small Seed Ball
+// EyeballAmmoProj.DisplayName: Flingable Eye
+// SlingshotHit.DisplayName: Slingshot Hit
+// SlingshotHitCrit.DisplayName: Slingshot Hit
+// EyeSlingshotProj.DisplayName: Dualeye Slingshot
+// EyeWormTail.DisplayName: Eye Worm
+// EyeWormHead2.DisplayName: Eye Worm
+// EyeWormHead1.DisplayName: Eye Worm
+// EyeWormBody.DisplayName: Eye Worm
+// TripletsLaser.DisplayName: Eye Laser
+// MiteSlingshotProj.DisplayName: Festering Slingshot
+// SlingshotMite.DisplayName: Mite
+// OrangeSplatter.DisplayName: Bile
+// HaroldBolt.DisplayName: Harold Bolt
+// PuttyBlob.DisplayName: Putty Blob
+// BigDunkSlingshotProj.DisplayName: Zomboid Slingshot
+// ZomboidTomatoHead.DisplayName: Giant Tomato
+// TomatoPuttyFlyingFalling.DisplayName: Salsa Putty
+// ZomboidBruteSlam.DisplayName: Shockwave
+// TomatoAmmoProj.DisplayName: Flingable Tomato
+// SkullAmmoProj.DisplayName: Sprouting Skull
+// SkullAmmoThornVine.DisplayName: Thorn Vine
+// ArachnidSlingshotProj.DisplayName: Greg The Arachnid
+// BigDunkSlingshotJuice.DisplayName: Zomboid Juice
+// ArachnidSlingshotBaby.DisplayName: Baby Spider
+// BigBoneSlingshotProj.DisplayName: Potted Plant Slingshot
+// ProSlingshotProj.DisplayName: Pro Slingshot
+// EvilMiteBlood.DisplayName: Blood Glob
+// OldHunterHead.DisplayName: Old Hunter's Head
+// SlingshotBigRock.DisplayName: Sticky Rock
+// TrackingCrossbowProj.DisplayName: Hi-Tech Crossbow
+// TrackingCrossbowBolt.DisplayName: Tracking Bolt
+// SporeShroom.DisplayName: Spore Shroom
+// SporeShroomCloud.DisplayName: Spore
+// PossessedCrownProj.DisplayName: Possessed Crown
+// BloodBallTooth.DisplayName: Blood Ball Tooth
+// PossessedDagger.DisplayName: Possessed Dagger
+// GlaggleOrbProj.DisplayName: Glaggle Orb
+// GlaggleOrbProjSmall.DisplayName: Glaggle Orb
+// SentientGoblinFlyEye.DisplayName: Goblinoid
+// SentientGoblinFlyMouth.DisplayName: Goblinoid
+// SentientGoblinSpit.DisplayName: Goblinoid
+// SentientGoblinTiny.DisplayName: Goblinoid
+// SentientGoblinFlyEyeTear.DisplayName: Tear
+// AntSpiderBoomerangProj.DisplayName: Ant Spider Head
+// AntSpiderBoomerangSlash.DisplayName: Slash
+// FishingSpiderBobber.DisplayName: Fishing Spider Bobber
+// SpiderAntHeadSlash.DisplayName: Fire Slash
+// WolfSpiderMinion.DisplayName: Wolf Spider
+// WolfSpiderMinionTiny.DisplayName: Wolf Spider Baby
+// ChristmasTreeStar.DisplayName: Christmas Tree Star
+// TomatoRed.DisplayName: Tomato
+// TomatoOrange.DisplayName: Tomato
+// TomatoYellow.DisplayName: Tomato
+// MetalFist.DisplayName: Metal Fist
+// MetalFistStick.DisplayName: Metal Fist
+// MagicBean.DisplayName: Magic Bean
+// MagicBeanstalk.DisplayName: Magic Beanstalk
+// DiscoSkullHoldout.DisplayName: Disco Skull
+// BrainyBeam.DisplayName: Brain Beam
+// ElGourdoExplosion.DisplayName: Explosion
+// ElGourdoFire.DisplayName: Fireball
+// SlingshotAttachFlower.DisplayName: Flower
+// CageFungusProj.DisplayName: Red Cage Fungus

@@ -2,6 +2,7 @@
 // BigBone: The long lost brother of little bone who is trapped away in the catacombs due to his immense power. His floral magicks have taken over the catacombs, spreading strange plant life all throughout.
 // Daffodil: A giant and lazy flower that spends most of her time sleeping. She is supposed to watch over the deep catacombs entrance, only letting those she deems worthy to continue further.
 // Moco: The legendary flying schnoz, said to only appear when a mere mocling is blessed by the nose cultists special ritual. Its newfound power has mutated both its size and power massively, and allows it to control and command other moclings to help it.
+// OldHunter: An undead guy from the ancient old hunter society that once called the grotto home before it became taken over by spiders. He is a master at using slingshots, even able to improvise with random objects and or self-made things as ammo to win battles in desperate situations.
 // OrroHead: A fast serpent that works together with Boro to defend its territory. These serpents are growing constantly, and consume each other in an endless cycle.
 // BoroHead: An aggressive serpent that works together with Orro to defend its territory. Old myths say that the valley of eyes is made from the leftover flesh chunks these serpents have torn off each other.
 // RotGourd: This giant rotting husk and their little fly friends are not fond of invaders in their land. Rotty will aggressively jump while jerry acts as a turret, spitting nasty mold spores and bugs.
@@ -74,6 +75,7 @@
 // Chester: The strongest soul in pandora's box, it wields an unusually powerful club and a reflective shield to protect itself.
 //cemetery
 // BloatGhost: Very easy to frighten ghosts that puff up when someone gets too close. They can be hazardous when large groups of them are approached.
+// Crow: Friendly birds that can be heard squawking about in the cemetery.
 // FeralRat1: During a blood moon, normally hidden rats wandering around the cemetery get turned into hideous monsters that will chase down anything they see.
 // FeralRat2: Giant rabid rodents that quickly scurry across the cemetery during the red moon, attacking anything in their path.
 // HungryGhost: A very lazy ghost that waits around until someone or something approaches so it can eat it. It is much faster than it looks!
@@ -95,7 +97,7 @@
 // Biojetter: A creature with multiple extendable eyes that allow it to see from multiple angles and directions, along with biothrusters which allow it to fly by expelling nasty organic goo. It stores tons of this goo in its body, making it very volatile.
 // CoughLungs: Filled with a nasty ichor gas, it can cough it up to create lingering clouds that are harmful when breathed in.
 // CruxBat: A strange flying brain-like creature. With constant power being pumped into it from its heart, it can use psychic power to conjure auras that weaken their foes.
-// EarWorm: It is unknown if these are actually burrowing worms or if they are perpetually attached to the ground. They can attack by emitting high-frequency screams in the form of a powerful sound blast.
+// EarWorm: They latch onto the ground and can burrow through the biomass the eye valley is made out of. They can attack by emitting high-frequency screams in the form of a powerful sound blast.
 // ExplodingAppendix: While not exactly powerful, these sacks of flesh can explode themselves as an attack to release the harmful ichor that they store inside of them.
 // FleshBolster: Using their tendrils attached to the ground, they can create large flesh tendrils from below to attack unsuspecting foes.
 // GooSlug: Hungry and brainless, they will attempt to eat anything they can bite or fit in their mouth. Luckily though they are picky eaters, and will spit things out if they taste bad.
@@ -106,9 +108,8 @@
 // DumbZomboid: A zomboid that got lost. It does not know how to read. Or think.
 // Krampus: The real krampus. A lazy yet incomprehensibly powerful demon who created a labyrinth-like workshop deep in the underground tundra. He could use his powers to cause wide-spread misfortune, he prefers to try and create toys to spread christmas cheer. Though he seems to having a bit of a difficult time doing that.
 // LittleBone: A friendly skull plant creature who hangs around in his flower pot. He likes to give advice to passerbys.
-// LittleEye: A strange sentient eye stalk with a cool wizard hat. A decently experienced alchemist who prefers using his skills to mess with others, but can be helpful at times.
+// LittleEye: A sentient eye stalk with a wizard hat. An extremely deranged alchemist who speaks in riddles and has created many diabolical things that almost always go wrong.
 // Musicman: Alien scientist gone rogue, Musicman has become your personal DJ. He looks like he's trying to communicate...
-// OldHunter: An ancient old hunter that once called the grotto home before it became taken over by spiders. He enjoys collecting guns along with other ranged weapons he can get his hands on.
 // PartySkeleton1: Colorful and silly skeletons revived by the power of the raveyard. They love the craziness of a party.
 // PartySkeleton2: Ancient skeletons that rise up during crazy parties. They look like they're close to overdosing.
 // PartySkeleton3: Unlike most hostile skeletons, these ones are friendly to anyone and are great party guests.
@@ -148,8 +149,15 @@
 // TinyGhostBoof: A more fancy and well mannered ghost who also smokes its little pipe.
 // TinyGhostRare: It's a tiny ghost, but these ones are orange. They can be befriended if you can manage to find and catch one!
 // TinyMushroom: Who knew that the mushrooms in the spooky forest could move? Well now you do!
+// TomatoPutty: These significantly more aggressive putties gain their ketchup properties from the strange power during a blood moon. They are generally not edible though.
+// TomatoPuttyFlying: The salsa putty is not actually made of salsa, it is just a very big ketchup putty that tumbled around on some grass. It uses small leaves to fly, albeit poorly.
+// TomatoPuttyFlyingSmall: Its common for putties to split up into much smaller pieces. Unlike slime, putty is a lot firmer and can survive in pieces easier.
+// TomatoRoman: The blood moons magic accelerates their growth and causes them to be really rowdy. They surprise those who step near them by jumping out of the ground, but they don't really think that far ahead.
+// TomatoWorm: Granny's Tomato Soup™ was a popular soup brand around 50 years ago. Sadly the company went bankrupt after numerous incidents involving the owners tendency for witchcraft and mischief.
 // Witch: As it turns out, the stories of evil witches are true. The death of the flesh wall has unleashed powerful spooky magic, allowing these wretched witches to live at night once again, throwing their toxic flasks at everyone.
 // ZomboidArmored: The few times zomboids do something that seems smart, it usually comes back to bite them. This one was smart enough to make armor, but not smart enough to use a material that doesn't attract lightning.
+// ZomboidBrute: Though referred to as brutes, they are actually more intelligent than it may seem. Their strength just comes from a very healthy workout routine. It is not recommended to try and ask them what it is.
+// ZomboidBruteTomato: Like regular zomboids, the zomboid brutes also hide their heads inside a giant tomato. It seems to be a common phenomenon among zomboids, but it is unknown why they do this only during blood moons.
 // ZomboidClarinet: Zomboids are known to frequently get themselves into very stupid situations. This ones entire body is stuck inside of a giant instrument.
 // ZomboidFungus: Zomboids that have become overgrown with a strange fungus. Despite being blind, they can still sniff out their target's location.
 // ZomboidPumpkin: Rooted to the ground, these zomboids are incapable of movement and are constantly angry because of it. They can control their roots to attack nearby foes from below.
@@ -157,8 +165,8 @@
 // ZomboidRain: Its body is extremely decayed to the point that rain water is able to flow through it like a water fountain. This doesn't stop them from mindlessly shambling around though.
 // ZomboidThorn: Shambling, thorn-covered monsters that arise at night. They may be braindead, but should not be messed with if underprepared.
 // ZomboidTomato: The blood moon's curse has driven these zomboids insane and they have hidden themselves in a giant tomato.
-// ZomboidTomatoMold: They run around recklessly during bloodmoons as they are blinded by the tomato they put on their head. They leave behind harmful tomato juice on the ground when killed.
-// ZomboidWarlock: These not so braindead zomboids are smart enough to use and learn magic, allowing them to conjure spells to attack foes.
+// ZomboidTomatoMold: They run around recklessly during bloodmoons as they are blinded by the tomato they put on their head. Don't breath in the mold on their head!
+// ZomboidWarlock: These not so braindead zomboids are smart enough to learn and use magic, allowing them to conjure spells to attack foes.
 // ZomboidWind: A zomboid that has been impaled by a large metal windchime, yet somehow still walks as if it's fine.
 //eye valley
 // EyeBat: These flying abominations are adept and fast hunters. They have eyes all around their body, allowing them to see in all directions.
@@ -166,7 +174,7 @@
 // ManHole: These horrid mouths form on the ground in the eye valley, and can be very dangerous to unsuspecting explorers. They can also spit saliva to digest prey from afar.
 // ManHoleFleshy: The eye valley creates and uses these to consume prey to absorb more biomass. They can also sink into the ground and resurface elsewhere to confuse prey.
 // Mocling: These nose-like bugs hover around in groups, referred to as "Mocks", around their territory. They don't take kindly to being approached and will shoot out snot at potential threats.
-// MrHandy: A rather energetic living hand that will aggressively hop towards it's target. It may look goofy from a distance, until it gets too close.
+// MrHandy: A rather energetic living hand that will aggressively run towards its target. It may look goofy from a distance, until it gets too close.
 // MrHandyFleshy: Even more erratic, the eye valley created them to have sharper claws, allowing them to rip apart prey and unwanted intruders.
 // Tortumor: These weirdly non-hostile blobs of flesh have a special gas in their body, allowing them to float and propel themselves unpredictably.
 // TortumorGiant: Rarely these mutated tortumors can be spotted floating around aimlessly in the eye valley. The gas in their body is extremely volatile and will combust if the tortumor is injured enough.
@@ -181,9 +189,15 @@
 //spider cave
 // Ant1: Common insects found in the damp spider infested caves. They are decent at blending into the environment.
 // Ant2: Uncommon ants with a bright red color rather than brown. They look a bit angry.
+// AntSpider1: These spiders have somehow evolved to mimic ants, capable of living among them and eating them.
+// AntSpider2: They resemble ants but are actually spiders, they use their long front legs to mimic ant mandibles to trick them.
 // BallSpider: These rotund creature's stubby legs only allow for limited movement, but they are adept at weaving webs, allowing them to hang from ceilings and stalk prey.
 // Cockroach: Disgusting and hard to get rid of pests. At least they don't usually wander too far out of the caverns where they live.
+// CrabSpider1: These watchful spiders have the ability to crawl around really quickly both sideways and backwards when threatened to escape from immediate danger.
+// CrabSpider2: Good at hunting, they will quickly run backwards while facing their prey as to not loose track. Then, once far enough, they will quickly lunge at their target.
 // DaddyLongLegs: Their long legs allow them to walk across the rough terrain in the grotto. Lacking any other attack besides biting, they are not as intimidating as they might seem.
+// Harvestmen: Despite their scary looking legs, these spiders are shy and curious, wandering about the grotto. Don't take advantage of their passive behavior though, as they will retaliate if harmed!
+// FishingSpider: Able to live in water and land, their bodies look like a fish when they tuck their legs in. After prey gets close, they will jump out of the water and attack whatever thought they were a harmless fish.
 // Inchworm1: Little worms that crawl around in the damp spider infested cave. They are not so good at avoiding the spiders that eat them.
 // Inchworm2: Cute and reclusive little worms that live in the damp caverns. They apparently taste good to spiders, which eat them often.
 // Inchworm3: These inchworms have miraculously adapted to have a more hostile appearance, making spiders less likely to target them.
@@ -199,17 +213,23 @@
 // OrbWeaver2: The skull-like pattern they have on their shells is a useful trait that helps to ward off intruders, or anything that disturbs them when they sleep.
 // OrbWeaver3: A sub-species of orb weaver, their spikes are not as sharp as other orb weaver spiders but are coated in dangerous poison.
 // OrbWeaverGiant: These scary mutated orb weavers roam in the grotto very rarely. Those who do see them are usually too captivated by its pretty shell before realizing it is actually a deadly spider.
+// PeacockSpider1: Slightly more hostile jumping spiders, these ones seem to be able to run really fast along with their ability to leap.
+// PeacockSpider2: The strange and bright patterns on their back are meant to ward off predators, or other spiders from invading their territory.
+// PeacockSpider3: Peacock spiders have adapted to have many unique and bright colored patterns on their abdomen. It is said they use it to attract and impress others of its kind.
+// PelicanSpider1: They can float on the water as their bodies are thin and streamlined. They can also run on land surprisingly quick and have small wings they can use to hover.
+// PelicanSpider2: Their long mandibles resemble a beak, earning them the name pelican spider. It uses these mandibles to hold its prey at a distance to avoid being poisoned or attacked in return.
+// SmileSpider: The smile-like pattern on their back is said to be an adaptation to trick prey, and scare away any predators that may eat them.
+// SpiderAnt1: In order to avoid ant spiders, these ants have evolved to look like spiders so they do not get hunted.
+// SpiderAnt2: The ant spiders disguise backfired, after these ants adapted their appearance to look like spiders.
 // TarantulaHawk1: If regular spiders weren't weird enough, these ones can fly. They are one of the more powerful and aggressive species in the grotto.
 // TarantulaHawk2: They can carry smaller spiders to their prey with their strong legs, and in exchange they share the food amongst each other. An interesting symbiotic relationship.
 // TarantulaHawk3: These tarantula hawks have adapted to take on the appearance of a large fly, which allows them to approach their prey without being noticed.
-// TinySpider1: These spiders are incredibly weak, but in groups can become more deadly. They are also very hard to spot in the darkness of the grotto.
-// TinySpider2: Hiding inside of egg-like silk cocoons, these spiders can scare unsuspecting explorers by popping out of them.
-// TinySpider3: These spiders are actually very smart. They create a cocoon of silk resembling an egg, only to burst out and attack when something tries to mess with it.
-// TinySpider4: If you see a large egg in the grotto it's likely one of these is inside, make sure not to go near it.
-// TinySpider5: These spiders adapted to come in lots of colors so they can trick other species into thinking they are its own children, to leech resources from the unsuspecting parent.
+// TinySpider: These baby spiders can be found wandering around the grotto. They are also very hard to spot in the dark, and despite their size will not hesitate to attack threats.
 // TrapdoorSpider1: These juvenile spiders have very thin legs they can easily dig into the ground with, allowing them to disguise themselves and jump out at unsuspecting prey.
 // TrapdoorSpider2: These fully grown trapdoor spiders are even more deadly. The extra legs they have grown in maturity allow them to burrow and chase prey even more efficiently.
-// WhipSpider: These creatures are actually more related to crustaceans than spiders. They have a long whip-like tongue coated in pheromones that increase the aggression of other spiders.
+// WhipSpider: These creatures are actually more related to crustaceans than spiders. They have a long and flexible tail with a stinger, which contains a special pheromone that causes aggression in other spiders.
+// WolfSpider: One of the only species of spiders to carry their young on their back. Despite the babies smaller size, the mother will allow them to hunt so they can learn to live on their own.
+// WolfSpiderBaby: They can camouflage by waiting on their mother's back, and will attack if they themselves or their mother is in danger.
 //nose cultists
 // NoseBallPurple: A large amalgam of noses fused together with the cult leader's magic. They can jump around off of surfaces by blowing air out of their many noses.
 // NoseBallRed: Created by Noseferatu, they chaotically propel themselves around to serve as a distraction. They are formed using parts of other cultists who willingly sacrificed themselves.
@@ -260,7 +280,7 @@
 // SkeletonPiranha: Piranhas tend to travel in schools. In some cases, the more courageous venture alone and grow to unnatural sizes. Unfortunately for them, there are always bigger fish in the sea.
 // SkeletonPufferfish: Previously equipped with poisonous spines for defense, they are now skeletons filled with holes. Unable to control themselves in the water, they can only uselessly float around.
 // SkeletonSpearfish: Their slim and short bodies allow them to propel through the water at fast speeds. Now with their home infected and all wildlife dead, their spear doesn't serve much purpose anymore.
-// SkeletonSunfish: An incredibly large and docile creature, the sunfish does not pose a threat to any. Occasionally, they stray far out of their depth, in more ways then one.
+// SkeletonSunfish: The skull of an incredibly large and docile creature, the sunfish does not pose a threat to any. Occasionally, they stray far out of their depth, in more ways then one.
 //krampus workshop
 // BasketBall: Basket balls are widely used across the world, so krampus created some. But he made them so bouncy, that they just end up slamming into things and breaking them, or slamming into people and hurting them.
 // BeachBall: After unsuccessfully making basket balls, krampus tried making beach balls since they're softer. Turns out krampus made them just as bouncy and capable of breaking things too.
@@ -277,6 +297,36 @@
 // TeddyBearSnow: Its body has been stuffed with a strange kind of snow after krampus ran out of stuffing. This snow seems to make the smaller teddy bears around it go rabid and swarm around them.
 // ToyRobot: Small toy robots that wander around krampus workshop. Sometimes when damaged enough, they can malfunction explosively.
 // ToyRobotTank: These bigger robots are armed with a harmful laser beamer that they found in the workshop, originally made by krampus as a toy.
+//spider war
+// ArchdukeSpider: The arch-duke who led the spiders in their conquest of the grotto. Now in his old age, he isn't capable of much anymore, but is still respected enough to cause an intense reaction from the spiders.
+// OgreKing: Long ago when these giant spiders searched to expand their habitat, they stumbled upon a rare underground grotto which they would claim as their new home. They can quickly create sticky webs to trap its targets, then letting other spiders go in for the kill.
+// EmperorMortar: These large orb weaver emporers are strong and sturdy, being sent in the frontlines during their devastating battle to take over the grotto. The explosive web bombs and homing missiles they launch from their shells are powerful and can destroy entire houses easily.
+// CorklidQueen: In order for the spiders to successfully take over the grotto as their own, these spiders hid in the ground to serve as spies, then when necessary emerge and wreak havoc. They can also create explosive missiles in their shell, which they can shoot out using pressure.
+// CamelColonel: These spiders are very slow and steady, using their poweful vision and tail cannons to take down foes from extreme distances. Unfortunately, those who thought they could escape the frontlines were quickly melted away by the super-corrosive venom shot by these quiet snipers.
+// EmpressJoro: Their bodies and wing-like protrusions help them glide through the air with ease. Their powerful legs can carry resources to other spiders during their conquests, and even deploy smaller spiders to aid in combat to serve as distractions.
+// JoroFly: These little baby joros are fast and have a really sharp proboscis they can use to suck nutrients out of enemies. They are born out of web eggs in large groups.
+// JoroBaby: These suspiciously bomb-shaped spiders can create explosions with some kind of reaction inside their bodies, without actually damaging themselves. This allows them to explode anything they want continuously.
+//spore event
+// BeetleMite1: These small mites are generally lazy and will stay still, but dislike their personal space being intruded.
+// BeetleMite2: Their eyebrows make them look grumpy, and that's because they usually are. Leave them alone and you won't be bitten like crazy.
+// BerryMite1: They can float around by inflating a sac in their abdomen. They can do so with no worries as the spiders hide away when the mushroom spores are too intense.
+// BerryMite2: Even though they can hover, they also haven't adapeted to learn how to control themselves so they just float around aimlessly.
+// BerryMite3: The sac inside of their body can be filled by inhaling spores which combined with their light bodies, gives them the ability to float around like a balloon.
+// DeerMite: With large antlers and streamlined bodies, they can charge around wildly and stab with their antlers. However, their eye sight is poor and they often crash into surfaces and get stuck.
+// DustMite1: They come out when the mushrooms emit spores, as this is what they primarily feed on. They can freely hunt as the spores become too toxic for the spiders to handle.
+// DustMite2: The reason they jump is because it allows them to catch as many spores as possible to eat. The spores also probably make them more crazy though.
+// EyelashMiteBlue: Their flexible and aerodynamic bodies allow them to silently move through the spore fog, making them adept hunters.
+// EyelashMitePurple: Eyelash mites can grow in varying sizes. The longer ones are generally the ones who get more food and have lived for longer.
+// PeacockMite: They take in spores through their face, and turn it into a sticky web-like substance from their abdomen, allowing them to catch prey from behind.
+// RustMite: Wandering slowly through the spore fog, they feed on whatever is left behind by other mites on the ground and turn the leftovers into spike-like objects.
+//old hunter enemies
+// PuttyAmalgam: In rare circumstances, putty slimes can merge together and increase their power by traveling together as one. Their ability to jump has been enhanced, as well as being able to melt their body and reform elsewhere.
+// Harold: A strange being of unknown origin, who flies around the cemetery at night and can summon small ghosts to assist him. Some say they have observed people being absorbed into his body upon touching his sheet, but this is only a rumor with no concrete evidence.
+// Triplets: A group of three eyes attached to veins, they travel attached to each other and, over time, have learned to how to work together despite having disconnected consciousnesses. They can channel their psychic power together into powerful lasers.
+// EvilMite: It is rare that mites are able to gather a ton of blood, but when they do they become bloated to unnatural sizes. Their bodies being filled with blood makes them squishy and explosive.
+// PotatoGator: This potato creature can use its root-like legs to move through the ground, and can launch itself out at unsuspecting creatures it wants to eat. Its mouth is filled with nothing but potato mush, so it usually tries to swallow its prey whole, no matter how large.
+// ChristmasTreeMimic: When krampus had to step up to take care of christmas responsibilities, he got a tree to feel more festive. Due to his demonic nature, the evil power seeped into the tree. It stays still most of the time until someone or something annoys it, after which it will rampage everywhere.
+// TarPig: This species of hog used to be plentiful in the desert caverns due to its favorite food, cactuses, being plentiful. Now that they are extinct, these giant tar slimes use their skeletal remains as a shield to protect themselves so they can float and relax in pools of tar peacefully.
+// Chudshroom: These notoriously grumpy species do not like anyone going near them and will become agitated when anything invades its space. Their mushroom caps were a very rare and valueble item that led to them being over-hunted, perhaps why they have a very solitary and defensive nature.
 //tameable
-// Crow: Friendly birds that can be heard squawking about in the cemetery.
-// Turkey: Not exactly the smartest birds, they wander about and peck at the ground to find food. They prefer the spooky forest because rotten seeds, their favorite snack, is plentiful there.
+// Turkey: Not exactly the smartest birds, they wander about and peck at the ground to find food. They prefer the spooky forest because rotten seeds, their favorite snack, is plentiful there. They don't mind eating seeds dropped by people either.
