@@ -121,6 +121,7 @@
 // SkeletonBouncer: Security that participates in the raveyard and makes sure nothing gets out of hand. They carry a super-weapon that allows them to gun down anyone in seconds.
 // SuspiciousSkeleton: A weird skeleton that hangs around during wild parties. Sells extremely weird objects and trinkets to any idiot willing to buy them.
 //spooky forest
+// BuffBungus: Sometimes when a bungus has extended exposure to the mycelium it eats for food, it gets absorbed into its muscular system causing a huge increase in strength.
 // Bungus: Small humanoid mushroom creatures found deep underground in the spooky forest, hanging around areas infested with purple moss.
 // CandleMonster: It is unknown how they are formed, but these candles are not as weak as they seem. They will spit molten candle wax out of their mouth at any unsuspecting human.
 // Chungus: Chunky and squishy mushrooms that hop around the mushroom moss fields underground. They welcome adventurers by spitting harmful spores out of their mouth.
@@ -227,7 +228,7 @@
 // TinySpider: These baby spiders can be found wandering around the grotto. They are also very hard to spot in the dark, and despite their size will not hesitate to attack threats.
 // TrapdoorSpider1: These juvenile spiders have very thin legs they can easily dig into the ground with, allowing them to disguise themselves and jump out at unsuspecting prey.
 // TrapdoorSpider2: These fully grown trapdoor spiders are even more deadly. The extra legs they have grown in maturity allow them to burrow and chase prey even more efficiently.
-// WhipSpider: These creatures are actually more related to crustaceans than spiders. They have a long and flexible tail with a stinger, which contains a special pheromone that causes aggression in other spiders.
+// WhipSpider: These creatures are actually more related to crustaceans than spiders. They have a long and flexible tail with a stinger, which is coated in a dangerous acidic venom.
 // WolfSpider: One of the only species of spiders to carry their young on their back. Despite the babies smaller size, the mother will allow them to hunt so they can learn to live on their own.
 // WolfSpiderBaby: They can camouflage by waiting on their mother's back, and will attack if they themselves or their mother is in danger.
 //nose cultists
