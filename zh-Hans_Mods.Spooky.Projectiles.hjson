@@ -125,7 +125,6 @@
 // ColumboFinger.DisplayName: Columbo
 // ShroomWhipProj.DisplayName: Spore Smacker
 // ShroomWhipSpore.DisplayName: Shroom Spore
-// ChlorophyllFlower.DisplayName: Chlorophyll Flower
 // FleshPillarTelegraph.DisplayName: Telegraph
 // FleshPillar.DisplayName: Flesh Pillar
 // GourdFlailProj.DisplayName: Rotty's Wrath
@@ -134,13 +133,12 @@
 // MoldyPelletProj.DisplayName: Moldy Pellet
 // MoldPelletFly.DisplayName: Mold Fly
 // SkullGoop.DisplayName: Skull Goop
-// SolarLaser.DisplayName: Solar Laser
 // ThornBall.DisplayName: Thorn Ball
 // ThornBallSpike.DisplayName: Thorn Spike
 // DaffodilFly.DisplayName: Large Fly
 // ShroomFlailProj.DisplayName: Fungal Flail
 // ShroomHopperPet.DisplayName: Shroom Hopper
-// FlyPet.DisplayName: Cornelious
+// FlyPet.DisplayName: Frank
 // FemurFractureSwung.DisplayName: Femur Fracturer
 // FemurFractureProj.DisplayName: Femur Fracturer
 // FemurFractureSkull.DisplayName: Fracturer Skull
@@ -442,7 +440,7 @@
 // SharkronExplosion.DisplayName: Sharkron Explosion
 // SharkronFireball.DisplayName: Sharkron Fireball
 // SpookFishronGunFire.DisplayName: Spooky Flames
-// SpookFishronFlailProj.DisplayName: Spicy Flairon
+// SpookFishronFlailProj.DisplayName: Flaming Flairon
 // SpookFishronFlailBubble.DisplayName: Spicy Bubble
 // SinisterSnailPet.DisplayName: Sinister Snail
 // SpookFishronMinion.DisplayName: Spooky Pigron
@@ -544,7 +542,7 @@
 // TitanoboaWhipProj.DisplayName: Titanoboa Whip
 // SabertoothScytheProj.DisplayName: Sabertooth Scythe
 // SabertoothScytheFlung.DisplayName: Sabertooth Scythe
-// TarCannonProj.DisplayName: Opalised Cannon
+// TarCannonProj.DisplayName: Opalized Cannon
 // TarCannonBlob.DisplayName: Tar Blob
 // TarCannonSlime.DisplayName: Tar Slime
 // TarBombProj.DisplayName: Tar Bomba
@@ -664,8 +662,8 @@
 // BouncyBallProj.DisplayName: Bouncy Ball
 // SpiritSlingshotGhost.DisplayName: Soul
 // SpiritSlingshotGhostBolt.DisplayName: Soul Bolt
-// OpalSlingshotProj.DisplayName: Opalised Slinger
-// OpalSlingshotBone.DisplayName: Opalised Bone
+// OpalSlingshotProj.DisplayName: Opalized Slinger
+// OpalSlingshotBone.DisplayName: Opalized Bone
 // TarFlingerProj.DisplayName: Tar Flinger
 // TarFlingerBlob.DisplayName: Tar Blob
 // CactusClubProj.DisplayName: Cactus Club
@@ -742,3 +740,41 @@
 // ElGourdoFire.DisplayName: Fireball
 // SlingshotAttachFlower.DisplayName: Flower
 // CageFungusProj.DisplayName: Red Cage Fungus
+// SporeEventStarterProj.DisplayName: Spore Globe
+// SpiderSlingshotBaby.DisplayName: Tiny Spider
+// HomingDaffodil.DisplayName: Flower
+// DaffodilPollen.DisplayName: Pollen Puff
+// Corpsebloom.DisplayName: Corpsebloom
+// DutchmanPipeHitProj.DisplayName: ""
+// FireflyPet.DisplayName: Firefly
+// CrabPet.DisplayName: Vampire Crab
+// GlyphomancerBolt.DisplayName: ""
+// GlyphomancerHand.DisplayName: Magic Hand
+// SpookFishronWhipProj.DisplayName: Spicy Eel
+// SpookFishronWhipBubble.DisplayName: Spicy Bubble
+// SpookFishronWhipBubbleExplosion.DisplayName: Explosion
+// SpookFishronYoyoProj.DisplayName: Spit Roast
+// SpookFishronYoyoShark.DisplayName: Spooky Sharkron
+// GourdPetGreen.DisplayName: Oscar
+// GourdPetLime.DisplayName: Stevenson
+// GourdPetOrange1.DisplayName: Ben
+// GourdPetOrange2.DisplayName: Gerald
+// GourdPetRed.DisplayName: Pedro
+// GourdPetWhite.DisplayName: Pickle
+// GourdPetYellow.DisplayName: Augustus
+// BleachedTunaBubble.DisplayName: Bubble
+// PirateChestProj.DisplayName: ""
+// PirateHookProj.DisplayName: Garghantuan Hook
+// PirateHookScythe.DisplayName: Ghost Scythe
+// PirateBlunderbussProj.DisplayName: Ghost Busster
+// PirateBlunderbussBullet.DisplayName: Ghost Bolt
+// PirateShipWheelProj.DisplayName: Hellship's Helm
+// PirateShipWheelVortex.DisplayName: Whirlpool
+// InkFishBody.DisplayName: Ink Serpent
+// InkFishHead.DisplayName: Ink Serpent
+// InkFishTail.DisplayName: Ink Serpent
+// QueenConchSludge.DisplayName: Ecto Sludge
+// QueenConchBubble.DisplayName: Ghastly Bubble
+// HermitCrabSnip.DisplayName: Hermit Crab
+// HermitCrabGroundEffect.DisplayName: ""
+// QueenConchShellFall.DisplayName: Queen Conch Shell Fall

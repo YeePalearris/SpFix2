@@ -197,7 +197,7 @@ ColumboBuff: {
 }
 
 FlyPetBuff: {
-	// DisplayName: Cornelious the Fly
+	// DisplayName: Frank the Fly
 	// Description: He hovers around you menacingly
 }
 
@@ -535,11 +535,6 @@ CucumberStomachDebuff: {
 	// Description: ""
 }
 
-DutchmanPipeDebuff: {
-	// DisplayName: Dutchman Pipe Debuff
-	// Description: ""
-}
-
 ColumboneBuff: {
 	// DisplayName: Columbone
 	// Description: The being of bone
@@ -738,4 +733,64 @@ WolfSpiderMinionBuff: {
 PeacockSpiderMaskDebuff: {
 	// DisplayName: Peacock Spider Mask Debuff
 	// Description: ""
+}
+
+SpiderWarWebSlowDebuff: {
+	// DisplayName: Spider War Web Slow
+	// Description: ""
+}
+
+FireflyPetBuff: {
+	// DisplayName: Firefly
+	// Description: The firefly lights your way
+}
+
+CrabPetBuff: {
+	// DisplayName: Vampire Crab
+	// Description: It scuttles behind you
+}
+
+SpookFishronWhipDebuff: {
+	// DisplayName: Spook Fishron Whip Debuff
+	// Description: ""
+}
+
+GourdPetGreenBuff: {
+	// DisplayName: Oscar
+	// Description: The gourd lights your way!
+}
+
+GourdPetLimeBuff: {
+	// DisplayName: Stevenson
+	// Description: The gourd lights your way!
+}
+
+GourdPetOrangeBuff: {
+	// DisplayName: Ben & Gerald
+	// Description: The gourds light your way!
+}
+
+GourdPetRedBuff: {
+	// DisplayName: Pedro
+	// Description: The gourd lights your way!
+}
+
+GourdPetWhiteBuff: {
+	// DisplayName: Pickle
+	// Description: The gourd lights your way!
+}
+
+GourdPetYellowBuff: {
+	// DisplayName: Augustus
+	// Description: The gourd lights your way!
+}
+
+PiratePotionBuff: {
+	// DisplayName: Scallywag
+	// Description: Yaarg!
+}
+
+InkFishBuff: {
+	// DisplayName: Ink Serpent
+	// Description: The serpent illustrations will fight for you
 }
